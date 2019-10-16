@@ -1,1 +1,31 @@
-i
+html{
+    @media only screen and (orientation: portrait) and (max-width: 555px) {
+        transform: rotate(90deg);
+        width: calc(155%);
+        .content {
+          width: calc(155%);
+}
+body{
+    text-align: center;
+}
+button{
+    all: unset;
+    margin: 100px 20px;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 20px;
+}
+button:hover{
+    all: unset;
+    margin: 100px 20px;
+    background-color: rgb(62, 238, 179);
+    padding: 20px;
+    border-radius: 20px;
+}
+a{
+    all: unset;
+
+}
+.wise{
+    text-align: center;
+}
