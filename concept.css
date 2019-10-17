@@ -11,6 +11,9 @@ ul{
     list-style: none;
     padding-left: 0px;
 }
+li{
+    padding-top: 7%;
+}
 .add{
     margin-top: 30%;
     text-align: center;
