@@ -4,9 +4,14 @@ body{
 }
 .main{
     margin: 0px;
+    width: 100%;
+    
+}
+.concept{
+  display: inline-block;
 }
 .header{
-    margin: 60px 0px 70px 0px;
+    margin: 60px 0px 20px 0px;
 }
 
 body{

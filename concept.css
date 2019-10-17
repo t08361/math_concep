@@ -1,0 +1,17 @@
+.section{
+    display: inline-block;
+    text-align: center;
+    border-style: solid;
+    padding: 10px 0px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+ul{
+    margin: 10px 10px;
+    list-style: none;
+    padding-left: 0px;
+}
+.add{
+    margin-top: 30%;
+    text-align: center;
+}
